@@ -2,13 +2,8 @@
   <img src="https://user-images.githubusercontent.com/6391763/94993443-a542d100-05ae-11eb-8304-9280498d68f7.png" alt="Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/nirmalyaghosh23">
-    <img alt="Twitter: Nirmalya Ghosh" src="https://img.shields.io/twitter/follow/NirmalyaGhosh_.svg?style=social" target="_blank" />
-  </a>
-</p>
 
-This is a sample application for building a clone of [Reddit](https://www.reddit.com/). [Link to detailed article about how this was developed](https://www.sitepoint.com/reddit-clone-react-firebase/).
+This is a sample application for building a clone of [Reddit](https://www.reddit.com/).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
